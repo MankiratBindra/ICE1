@@ -27,10 +27,10 @@ public class CardTrickICE1 {
         {
             Random random = new Random();
             Card c1 = new Card();
-            int c = random.nextInt(1,12);
+            int c = random.nextInt(1,13);
             int s= random.nextInt(4);
-            c1.setValue(c);//use a method to generate random *13
-            c1.setSuits(Card.SUITS[s]);//random method suit
+            c1.setValue(c);
+            c1.setSuits(Card.SUITS[s]);
             magicHand[i]=c1;
         }
         //step 2:take input
