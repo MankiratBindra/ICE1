@@ -54,6 +54,9 @@ public class CardTrickICE1 {
         if(!found){
             System.out.println("The card you selected is not in the magic hand");
         }
+        Card luckyCard= new Card();
+        luckyCard.setValue(10);
+        luckyCard.setSuits("hearts");
     }
     
 }
