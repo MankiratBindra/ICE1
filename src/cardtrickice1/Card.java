@@ -7,8 +7,10 @@ package cardtrickice1;
 
 /** define card value and suits
  * 
+ * @studentID 991653445
  *
- * @author sivagamasrinivasan
+ * @author sivagamasrinivasan,May 23rd
+ * @author bindram ,May 31st
  */
 public class Card 
 {

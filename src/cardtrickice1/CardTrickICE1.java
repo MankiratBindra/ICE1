@@ -12,8 +12,10 @@ import java.util.Scanner;
  * step 2: take any card input from user suit,number
  * step 3: user card is in  the array 'card is found'
  *
+ * @studentID 991653445
+ *
  * @author sivagamasrinivasan,May 23rd
- * @author bindram,May 31st
+ * @author bindram ,May 31st
  */
 public class CardTrickICE1 {
 
